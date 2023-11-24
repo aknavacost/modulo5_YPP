@@ -1,0 +1,17 @@
+#formulario{
+    border: solid 2px black;
+    width: 300px;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+
+input{
+    display: block;
+    margin: 10px 0px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+label{
+    font-family: 'Open Sans', sans-serif;
+}
